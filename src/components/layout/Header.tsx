@@ -6,8 +6,8 @@ import ThemeToggle from "./ThemeToggle";
 const Header = () => {
   return (
     <Flex as="header" width="full" align="center">
-      <Heading as="h1" size="md">
-        <Link href="/">nextarter-chakra</Link>
+      <Heading letterSpacing="1px" as="h1" size="md">
+        <Link href="/">Reynadi Dev</Link>
       </Heading>
 
       <Box marginLeft="auto">
