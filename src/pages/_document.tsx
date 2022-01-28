@@ -71,6 +71,8 @@ class MyDocument extends Document {
           />
           <link rel="shortcut icon" href="/app-icon.png" /> */}
           <link rel="manifest" href="/manifest.json" />
+
+          <script async defer data-website-id="0a5e34d0-1799-44d9-970f-e53edd441c58" src="https://umami.reynadi.com/umami.js"></script>
         </Head>
         <body>
           <Main />
