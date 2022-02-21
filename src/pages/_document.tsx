@@ -75,7 +75,7 @@ class MyDocument extends Document {
           <script
             async
             defer
-            data-website-id="0a5e34d0-1799-44d9-970f-e53edd441c58"
+            data-website-id="92f247fe-618f-4759-824f-407f89689763"
             src="https://umami.reynadi.com/umami.js"
             data-domains="reynadi.com"
           />
