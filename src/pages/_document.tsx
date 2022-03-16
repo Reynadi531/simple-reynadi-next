@@ -72,13 +72,7 @@ class MyDocument extends Document {
           <link rel="shortcut icon" href="/app-icon.png" /> */}
           <link rel="manifest" href="/manifest.json" />
 
-          <script
-            async
-            defer
-            data-website-id="92f247fe-618f-4759-824f-407f89689763"
-            src="https://umami.reynadi.com/umami.js"
-            data-domains="reynadi.com"
-          />
+          <script async src="https://cdn.splitbee.io/sb.js" />
         </Head>
         <body>
           <Main />
