@@ -72,7 +72,12 @@ class MyDocument extends Document {
           <link rel="shortcut icon" href="/app-icon.png" /> */}
           <link rel="manifest" href="/manifest.json" />
 
-          <script async src="https://cdn.splitbee.io/sb.js" />
+          <script
+            async
+            src="https://ackee.reynadi.com/tracker.js"
+            data-ackee-server="https://ackee.reynadi.com"
+            data-ackee-domain-id="a87ca16b-a1d9-406f-ad80-82a089e57827"
+          />
         </Head>
         <body>
           <Main />
