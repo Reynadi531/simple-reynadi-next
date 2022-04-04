@@ -74,9 +74,10 @@ class MyDocument extends Document {
 
           <script
             async
-            src="https://ackee.reynadi.com/tracker.js"
-            data-ackee-server="https://ackee.reynadi.com"
-            data-ackee-domain-id="a87ca16b-a1d9-406f-ad80-82a089e57827"
+            defer
+            data-website-id="92f247fe-618f-4759-824f-407f89689763"
+            src="https://umami.reynadi.com/umami.js"
+            data-domains="reynadi.com"
           />
         </Head>
         <body>
